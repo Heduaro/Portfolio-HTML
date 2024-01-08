@@ -76,7 +76,7 @@ textarea {
 body {
   background-color: var(--body-color);
   color: var(--text-color);
-  transition: 0.4s; /* for light mode animation */
+  transition: 0.4s; /* light mode animation */
 }
 
 h1,
@@ -289,7 +289,7 @@ body.light-theme {
   box-shadow: 0 4px 4px hsla(0, 0%, 4%, 0.3);
 }
 
-/*=============== HOME ===============*/
+/*HOME*/
 .home__container {
   position: relative;
   row-gap: 4.5rem;
